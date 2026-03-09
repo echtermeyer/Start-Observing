@@ -1,0 +1,10 @@
+[
+  {
+    "id": "settings-1",
+    "user_id": "user-1",
+    "email_notifications": true,
+    "notification_frequency": "daily",
+    "critical_alerts_only": false,
+    "created_at": "2026-03-09T19:44:01.470502Z"
+  }
+]

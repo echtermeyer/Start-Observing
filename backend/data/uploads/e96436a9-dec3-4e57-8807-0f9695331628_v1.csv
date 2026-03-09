@@ -1,0 +1,41 @@
+sku,product_name,category,quantity,price,cost,last_restocked,supplier
+SKU-001,Wireless Mouse,Electronics,145,29.99,12.50,2024-01-15,TechSupply Co
+SKU-002,USB-C Cable 2m,Electronics,89,14.99,4.20,2024-01-18,TechSupply Co
+SKU-003,Mechanical Keyboard,Electronics,34,89.99,45.00,2024-01-10,TechSupply Co
+SKU-004,Monitor Stand,Office,67,49.99,22.00,2024-01-12,OfficePro Inc
+SKU-005,Desk Lamp LED,Office,112,34.99,15.00,2024-01-20,OfficePro Inc
+SKU-006,Webcam HD 1080p,Electronics,23,59.99,28.00,2024-01-08,TechSupply Co
+SKU-007,Notebook A5 3-pack,Office,203,12.99,3.50,2024-01-19,PaperWorld
+SKU-008,Ergonomic Chair,Furniture,8,299.99,150.00,2024-01-05,ComfortSeating
+SKU-009,Standing Desk,Furniture,12,449.99,220.00,2024-01-03,ComfortSeating
+SKU-010,Wireless Headphones,Electronics,56,79.99,35.00,2024-01-14,TechSupply Co
+SKU-011,Phone Charger 20W,Electronics,178,19.99,6.00,2024-01-17,TechSupply Co
+SKU-012,Mouse Pad XL,Office,95,24.99,8.00,2024-01-16,OfficePro Inc
+SKU-013,Cable Management Kit,Office,41,29.99,10.00,2024-01-11,OfficePro Inc
+SKU-014,Laptop Stand,Electronics,29,39.99,18.00,2024-01-09,TechSupply Co
+SKU-015,Desk Organizer,Office,88,19.99,7.00,2024-01-21,OfficePro Inc
+SKU-016,Blue Light Glasses,Accessories,134,29.99,9.00,2024-01-13,VisionCare Ltd
+SKU-017,Wrist Rest,Office,76,17.99,5.50,2024-01-15,ComfortSeating
+SKU-018,USB Hub 7-port,Electronics,45,34.99,14.00,2024-01-07,TechSupply Co
+SKU-019,Whiteboard 24x36,Office,19,44.99,20.00,2024-01-04,PaperWorld
+SKU-020,Marker Set 12-pack,Office,156,8.99,2.50,2024-01-22,PaperWorld
+SKU-021,Filing Cabinet,Furniture,6,179.99,90.00,2024-01-02,OfficePro Inc
+SKU-022,Desk Clock Digital,Office,63,24.99,10.00,2024-01-18,TechSupply Co
+SKU-023,Power Strip 6-outlet,Electronics,87,29.99,12.00,2024-01-16,TechSupply Co
+SKU-024,Document Scanner,Electronics,15,149.99,75.00,2024-01-06,TechSupply Co
+SKU-025,Sticky Notes Bulk,Office,245,14.99,4.00,2024-01-20,PaperWorld
+SKU-026,Keyboard Cleaner,Accessories,98,9.99,3.00,2024-01-19,TechSupply Co
+SKU-027,Monitor Light Bar,Electronics,31,54.99,25.00,2024-01-12,TechSupply Co
+SKU-028,Footrest Adjustable,Furniture,22,39.99,18.00,2024-01-10,ComfortSeating
+SKU-029,Pen Holder,Office,167,7.99,2.00,2024-01-21,PaperWorld
+SKU-030,Webcam Cover 3-pack,Accessories,212,4.99,1.00,2024-01-17,TechSupply Co
+SKU-031,Ethernet Cable 5m,Electronics,54,12.99,4.00,2024-01-14,TechSupply Co
+SKU-032,Desk Mat Leather,Office,38,44.99,20.00,2024-01-11,OfficePro Inc
+SKU-033,Air Purifier Mini,Office,17,79.99,40.00,2024-01-08,CleanAir Systems
+SKU-034,Plant Pot Set,Decor,45,19.99,7.00,2024-01-13,GreenOffice
+SKU-035,Succulent 3-pack,Decor,28,24.99,10.00,2024-01-15,GreenOffice
+SKU-036,Bookends Metal,Office,52,16.99,6.00,2024-01-18,OfficePro Inc
+SKU-037,Tape Dispenser,Office,124,6.99,2.00,2024-01-20,PaperWorld
+SKU-038,Scissors Set,Office,89,11.99,4.00,2024-01-19,PaperWorld
+SKU-039,Stapler Heavy Duty,Office,67,14.99,5.00,2024-01-16,PaperWorld
+SKU-040,Paper Clips 500ct,Office,198,3.99,1.00,2024-01-22,PaperWorld
