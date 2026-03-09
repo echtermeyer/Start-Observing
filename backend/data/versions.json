@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "demo-version-1",
+    "dataset_id": "demo-dataset-1",
+    "version_number": 1,
+    "file_path": "/sample_data/inventory.csv",
+    "row_count": 40,
+    "uploaded_at": "2026-03-09T20:28:38.209784Z",
+    "created_at": "2026-03-09T20:28:38.210010Z"
+  }
+]

@@ -1,1 +1,89 @@
-[]
+[
+  {
+    "id": "demo-schema-1",
+    "dataset_id": "demo-dataset-1",
+    "columns": [
+      {
+        "name": "sku",
+        "type": "string",
+        "nullable": false,
+        "sample_values": [
+          "SKU-001",
+          "SKU-002",
+          "SKU-003"
+        ]
+      },
+      {
+        "name": "product_name",
+        "type": "string",
+        "nullable": false,
+        "sample_values": [
+          "Wireless Mouse",
+          "USB-C Cable",
+          "Keyboard"
+        ]
+      },
+      {
+        "name": "category",
+        "type": "string",
+        "nullable": false,
+        "sample_values": [
+          "Electronics",
+          "Office",
+          "Furniture"
+        ]
+      },
+      {
+        "name": "quantity",
+        "type": "number",
+        "nullable": false,
+        "sample_values": [
+          "145",
+          "89",
+          "34"
+        ]
+      },
+      {
+        "name": "price",
+        "type": "number",
+        "nullable": false,
+        "sample_values": [
+          "29.99",
+          "14.99",
+          "89.99"
+        ]
+      },
+      {
+        "name": "cost",
+        "type": "number",
+        "nullable": false,
+        "sample_values": [
+          "12.50",
+          "4.20",
+          "45.00"
+        ]
+      },
+      {
+        "name": "last_restocked",
+        "type": "date",
+        "nullable": false,
+        "sample_values": [
+          "2024-01-15",
+          "2024-01-18",
+          "2024-01-10"
+        ]
+      },
+      {
+        "name": "supplier",
+        "type": "string",
+        "nullable": false,
+        "sample_values": [
+          "TechSupply Co",
+          "OfficePro Inc",
+          "PaperWorld"
+        ]
+      }
+    ],
+    "created_at": "2026-03-09T20:28:38.210553Z"
+  }
+]

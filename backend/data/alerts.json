@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "id": "demo-alert-1",
+    "dataset_id": "demo-dataset-1",
+    "dataset_name": "inventory",
+    "severity": "critical",
+    "type": "threshold",
+    "title": "Stock Below Threshold",
+    "message": "Filing Cabinet (SKU-021) dropped below minimum threshold of 10 units",
+    "acknowledged": false,
+    "created_at": "2026-03-09T20:28:38.219142Z"
+  },
+  {
+    "id": "demo-alert-2",
+    "dataset_id": "demo-dataset-1",
+    "dataset_name": "inventory",
+    "severity": "warning",
+    "type": "anomaly",
+    "title": "Unusual Pattern",
+    "message": "Standing Desk restocking frequency is 40% below historical average",
+    "acknowledged": false,
+    "created_at": "2026-03-09T20:28:38.222205Z"
+  }
+]

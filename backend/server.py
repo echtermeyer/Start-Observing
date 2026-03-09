@@ -42,9 +42,13 @@ app = FastAPI(
     lifespan=lifespan
 )
 
+cors_origins = ["http://localhost:5173", "http://localhost:3000", "http://localhost:3001"]
+if os.environ.get("FRONTEND_URL"):
+    cors_origins.append(os.environ["FRONTEND_URL"])
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173", "http://localhost:3000", "http://localhost:3001"],
+    allow_origins=cors_origins,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

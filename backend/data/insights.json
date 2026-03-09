@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "id": "demo-insight-1",
+    "dataset_id": "demo-dataset-1",
+    "dataset_name": "inventory",
+    "user_id": "user-1",
+    "severity": "critical",
+    "title": "Low Stock Alert",
+    "description": "Ergonomic Chair (SKU-008) has only 8 units remaining. At current sales velocity, stock will be depleted in approximately 5 days.",
+    "read": false,
+    "dismissed": false,
+    "created_at": "2026-03-09T20:28:38.211734Z"
+  },
+  {
+    "id": "demo-insight-2",
+    "dataset_id": "demo-dataset-1",
+    "dataset_name": "inventory",
+    "user_id": "user-1",
+    "severity": "warning",
+    "title": "Restock Recommended",
+    "description": "6 products in the Electronics category are below 50 units. Consider placing a bulk order with TechSupply Co.",
+    "read": false,
+    "dismissed": false,
+    "created_at": "2026-03-09T20:28:38.215705Z"
+  },
+  {
+    "id": "demo-insight-3",
+    "dataset_id": "demo-dataset-1",
+    "dataset_name": "inventory",
+    "user_id": "user-1",
+    "severity": "info",
+    "title": "Inventory Health",
+    "description": "Overall inventory value is $47,832. Office supplies category has the highest turnover rate with 15% weekly movement.",
+    "read": false,
+    "dismissed": false,
+    "created_at": "2026-03-09T20:28:38.218773Z"
+  }
+]
